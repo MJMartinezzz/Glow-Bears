@@ -1,0 +1,93 @@
+<types>
+	<type name="JR_Rad_Teddy">
+		<nominal>5</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>10</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="container"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+	</type>
+	<type name="Pink_Glow_Bear">
+		<nominal>5</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="container"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+	</type>
+	<type name="Teal_Glow_Bear">
+		<nominal>5</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="container"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+	</type>
+	<type name="Yellow_Glow_Bear">
+		<nominal>5</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="container"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+	</type>
+	<type name="Blue_Glow_Bear">
+		<nominal>5</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="container"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+	</type>
+	<type name="Red_Glow_Bear">
+		<nominal>5</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="container"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+	</type>
+	<type name="White_Glow_Bear">
+		<nominal>5</nominal>
+		<lifetime>28800</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="container"/>
+		<usage name="Village"/>
+		<usage name="Hunting"/>
+	</type>
+</types>
